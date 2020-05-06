@@ -1,0 +1,11 @@
+#container{
+    margin-top: 50px;
+    padding: 50px ;
+    background-color: #aaa;
+    color: #067;
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
